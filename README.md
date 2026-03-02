@@ -1,4 +1,4 @@
-# Scripts and data associated with the Microbiology Galaxy Lab (MGL) and microGalaxy 2026 Paper
+# Scripts and data associated with the Microbiology Galaxy Lab (MGL) and microGalaxy 2026 paper
 
 [![DOI](https://zenodo.org/badge/754032685.svg)](https://doi.org/10.5281/zenodo.15088382)
 
